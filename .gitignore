@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Big raw datasets (too large for GitHub)
+rag/data/raw/ednet/
+rag/data/raw/kaggle/
+
+# Processed EdNet sample (can be regenerated)
+rag/data/processed/

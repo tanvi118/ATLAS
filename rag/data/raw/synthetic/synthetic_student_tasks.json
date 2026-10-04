@@ -1,0 +1,5002 @@
+[
+  {
+    "sap_id": "500121540",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 132
+  },
+  {
+    "sap_id": "500121555",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 107
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 138
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 48
+  },
+  {
+    "sap_id": "500121540",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 116
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 149
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-09",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-22",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 64
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-29",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 162
+  },
+  {
+    "sap_id": "500121526",
+    "task": "Revise previous topics",
+    "subject": "NLP",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121577",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-11",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 91
+  },
+  {
+    "sap_id": "500121520",
+    "task": "Revise previous topics",
+    "subject": "NLP",
+    "deadline": "2026-10-21",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 90
+  },
+  {
+    "sap_id": "500121510",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-28",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 155
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 42
+  },
+  {
+    "sap_id": "500121577",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121487",
+    "task": "Complete project work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 73
+  },
+  {
+    "sap_id": "500121563",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-06",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 163
+  },
+  {
+    "sap_id": "500121508",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Prepare lecture notes",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-27",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 153
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-01",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 100
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-11-01",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121568",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 34
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-11-03",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 35
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-13",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 99
+  },
+  {
+    "sap_id": "500121509",
+    "task": "Complete project work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 59
+  },
+  {
+    "sap_id": "500121538",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 60
+  },
+  {
+    "sap_id": "500121547",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 149
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 45
+  },
+  {
+    "sap_id": "500121528",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 60
+  },
+  {
+    "sap_id": "500121514",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 53
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 106
+  },
+  {
+    "sap_id": "500121514",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-03",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 49
+  },
+  {
+    "sap_id": "500121560",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-28",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-14",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 106
+  },
+  {
+    "sap_id": "500121538",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 30
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 108
+  },
+  {
+    "sap_id": "500121567",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-28",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-15",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 63
+  },
+  {
+    "sap_id": "500121574",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 74
+  },
+  {
+    "sap_id": "500121522",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-22",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 45
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121524",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-28",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 145
+  },
+  {
+    "sap_id": "500121560",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121563",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 165
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Complete project work",
+    "subject": "Database Management",
+    "deadline": "2026-11-03",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 149
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 126
+  },
+  {
+    "sap_id": "500121545",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 64
+  },
+  {
+    "sap_id": "500121563",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 113
+  },
+  {
+    "sap_id": "500121517",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 82
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-28",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 57
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-19",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 82
+  },
+  {
+    "sap_id": "500121501",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-24",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 85
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 163
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-30",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 103
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-31",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 156
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 89
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-26",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 76
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 77
+  },
+  {
+    "sap_id": "500121557",
+    "task": "Complete lab work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 139
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-13",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 107
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121509",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121488",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 165
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 154
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Revise previous topics",
+    "subject": "NLP",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare for quiz",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 179
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121542",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 61
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 99
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 56
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-26",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 46
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-22",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 156
+  },
+  {
+    "sap_id": "500121573",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 82
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 82
+  },
+  {
+    "sap_id": "500121531",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 57
+  },
+  {
+    "sap_id": "500121542",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-19",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 105
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 76
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 180
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 70
+  },
+  {
+    "sap_id": "500121573",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 175
+  },
+  {
+    "sap_id": "500121547",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 86
+  },
+  {
+    "sap_id": "500121566",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 38
+  },
+  {
+    "sap_id": "500121538",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 135
+  },
+  {
+    "sap_id": "500121520",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 93
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 49
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 33
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 54
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-14",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 41
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 73
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 180
+  },
+  {
+    "sap_id": "500121564",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-18",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 132
+  },
+  {
+    "sap_id": "500121517",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 135
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 119
+  },
+  {
+    "sap_id": "500121560",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 57
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-30",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 45
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-06",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 66
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 180
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 169
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121552",
+    "task": "Complete assignment",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 150
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Solve practice questions",
+    "subject": "Database Management",
+    "deadline": "2026-10-27",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 59
+  },
+  {
+    "sap_id": "500121538",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 57
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 177
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-29",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 131
+  },
+  {
+    "sap_id": "500121553",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-24",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 53
+  },
+  {
+    "sap_id": "500121559",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 46
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-20",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 52
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-05",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 90
+  },
+  {
+    "sap_id": "500121568",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 73
+  },
+  {
+    "sap_id": "500121528",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 134
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-24",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 99
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-26",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 108
+  },
+  {
+    "sap_id": "500121574",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 97
+  },
+  {
+    "sap_id": "500121557",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-19",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 99
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121559",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 37
+  },
+  {
+    "sap_id": "500121575",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 169
+  },
+  {
+    "sap_id": "500121559",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-10-31",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 84
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 79
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete lab work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 64
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-09",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 129
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121536",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 94
+  },
+  {
+    "sap_id": "500121497",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-17",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 86
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 83
+  },
+  {
+    "sap_id": "500121577",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 77
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Prepare for quiz",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 140
+  },
+  {
+    "sap_id": "500121554",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 86
+  },
+  {
+    "sap_id": "500121560",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-15",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 93
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 125
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Complete project work",
+    "subject": "Database Management",
+    "deadline": "2026-10-29",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121554",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 84
+  },
+  {
+    "sap_id": "500121491",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 35
+  },
+  {
+    "sap_id": "500121484",
+    "task": "Solve practice questions",
+    "subject": "Database Management",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 96
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Complete project work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 49
+  },
+  {
+    "sap_id": "500121566",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 121
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121486",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-09",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 81
+  },
+  {
+    "sap_id": "500121550",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 72
+  },
+  {
+    "sap_id": "500121544",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 46
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 78
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 145
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 94
+  },
+  {
+    "sap_id": "500121546",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 141
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Complete assignment",
+    "subject": "Database Management",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 91
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-14",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 173
+  },
+  {
+    "sap_id": "500121522",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 113
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-05",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 91
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-17",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 61
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-17",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 143
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 51
+  },
+  {
+    "sap_id": "500121537",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 76
+  },
+  {
+    "sap_id": "500121490",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-19",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 152
+  },
+  {
+    "sap_id": "500121537",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 60
+  },
+  {
+    "sap_id": "500121487",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-29",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 143
+  },
+  {
+    "sap_id": "500121536",
+    "task": "Prepare for quiz",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-15",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 167
+  },
+  {
+    "sap_id": "500121532",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 143
+  },
+  {
+    "sap_id": "500121541",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 95
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-11",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121510",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 174
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 54
+  },
+  {
+    "sap_id": "500121575",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-30",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 33
+  },
+  {
+    "sap_id": "500121522",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 104
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 179
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete project work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121518",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-01",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 30
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 81
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121548",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-11-03",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 169
+  },
+  {
+    "sap_id": "500121571",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-03",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 64
+  },
+  {
+    "sap_id": "500121487",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-20",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121512",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-30",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121482",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 170
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 51
+  },
+  {
+    "sap_id": "500121538",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 142
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 167
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 42
+  },
+  {
+    "sap_id": "500121566",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 61
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 90
+  },
+  {
+    "sap_id": "500121484",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 44
+  },
+  {
+    "sap_id": "500121488",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-13",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 135
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 117
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-18",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 154
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-26",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-28",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 41
+  },
+  {
+    "sap_id": "500121558",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121514",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 69
+  },
+  {
+    "sap_id": "500121552",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-29",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 177
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-21",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 117
+  },
+  {
+    "sap_id": "500121557",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121500",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-03",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 71
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Prepare for quiz",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-29",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-11-02",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 113
+  },
+  {
+    "sap_id": "500121566",
+    "task": "Complete project work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-27",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 94
+  },
+  {
+    "sap_id": "500121482",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-31",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Complete project work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 132
+  },
+  {
+    "sap_id": "500121523",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-14",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 135
+  },
+  {
+    "sap_id": "500121575",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 79
+  },
+  {
+    "sap_id": "500121526",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 108
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 179
+  },
+  {
+    "sap_id": "500121490",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 167
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Prepare for quiz",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 129
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-11-03",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 33
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121564",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-24",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 107
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 98
+  },
+  {
+    "sap_id": "500121512",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 100
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 165
+  },
+  {
+    "sap_id": "500121563",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-15",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 80
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-06",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 74
+  },
+  {
+    "sap_id": "500121514",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 100
+  },
+  {
+    "sap_id": "500121512",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 46
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 33
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-17",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 106
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 102
+  },
+  {
+    "sap_id": "500121500",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-15",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 32
+  },
+  {
+    "sap_id": "500121557",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-22",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 52
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 146
+  },
+  {
+    "sap_id": "500121531",
+    "task": "Complete assignment",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-10",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 111
+  },
+  {
+    "sap_id": "500121548",
+    "task": "Complete lab work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 142
+  },
+  {
+    "sap_id": "500121573",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-11",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 101
+  },
+  {
+    "sap_id": "500121577",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 139
+  },
+  {
+    "sap_id": "500121573",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 180
+  },
+  {
+    "sap_id": "500121540",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-19",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-11-01",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 32
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 62
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Complete assignment",
+    "subject": "Database Management",
+    "deadline": "2026-10-18",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 173
+  },
+  {
+    "sap_id": "500121485",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 108
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121537",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-09",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 107
+  },
+  {
+    "sap_id": "500121513",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 130
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-15",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 155
+  },
+  {
+    "sap_id": "500121548",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 116
+  },
+  {
+    "sap_id": "500121491",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-11-03",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 162
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 35
+  },
+  {
+    "sap_id": "500121500",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 152
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 84
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 125
+  },
+  {
+    "sap_id": "500121550",
+    "task": "Complete lab work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121487",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-09",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 61
+  },
+  {
+    "sap_id": "500121548",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-25",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 170
+  },
+  {
+    "sap_id": "500121541",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-30",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 129
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 161
+  },
+  {
+    "sap_id": "500121561",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-11-01",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 40
+  },
+  {
+    "sap_id": "500121478",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 159
+  },
+  {
+    "sap_id": "500121525",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 101
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-10",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 174
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 54
+  },
+  {
+    "sap_id": "500121575",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 30
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-30",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 150
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-26",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 39
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-09",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 81
+  },
+  {
+    "sap_id": "500121486",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-30",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 122
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-19",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 48
+  },
+  {
+    "sap_id": "500121499",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121555",
+    "task": "Complete project work",
+    "subject": "Database Management",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 90
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 161
+  },
+  {
+    "sap_id": "500121553",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-26",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121546",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 143
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 102
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 83
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Complete project work",
+    "subject": "Database Management",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 33
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 142
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121516",
+    "task": "Prepare lecture notes",
+    "subject": "Database Management",
+    "deadline": "2026-10-28",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 39
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-28",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 62
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-31",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 53
+  },
+  {
+    "sap_id": "500121573",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 176
+  },
+  {
+    "sap_id": "500121524",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 144
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Complete assignment",
+    "subject": "NLP",
+    "deadline": "2026-10-26",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121552",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 98
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-27",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 89
+  },
+  {
+    "sap_id": "500121574",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-29",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 154
+  },
+  {
+    "sap_id": "500121540",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-27",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121552",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 105
+  },
+  {
+    "sap_id": "500121571",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 37
+  },
+  {
+    "sap_id": "500121484",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 167
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-30",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 100
+  },
+  {
+    "sap_id": "500121564",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-15",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 31
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 110
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Solve practice questions",
+    "subject": "Database Management",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 93
+  },
+  {
+    "sap_id": "500121485",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-05",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 110
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-15",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 167
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Prepare lecture notes",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-24",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 117
+  },
+  {
+    "sap_id": "500121513",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 48
+  },
+  {
+    "sap_id": "500121508",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 44
+  },
+  {
+    "sap_id": "500121484",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-11-03",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 99
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 172
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Prepare lecture notes",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-05",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 45
+  },
+  {
+    "sap_id": "500121555",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-08",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 152
+  },
+  {
+    "sap_id": "500121567",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-15",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 46
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 44
+  },
+  {
+    "sap_id": "500121576",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Revise previous topics",
+    "subject": "Data Structures",
+    "deadline": "2026-10-10",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 122
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121547",
+    "task": "Complete project work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-09",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 120
+  },
+  {
+    "sap_id": "500121574",
+    "task": "Revise previous topics",
+    "subject": "NLP",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 176
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 123
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-10-30",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 122
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 40
+  },
+  {
+    "sap_id": "500121567",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 34
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-29",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 74
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-10",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-11",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 147
+  },
+  {
+    "sap_id": "500121526",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121520",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-26",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 158
+  },
+  {
+    "sap_id": "500121482",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-09",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 126
+  },
+  {
+    "sap_id": "500121559",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-31",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 69
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 116
+  },
+  {
+    "sap_id": "500121499",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-21",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121552",
+    "task": "Complete assignment",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-10",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 163
+  },
+  {
+    "sap_id": "500121537",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-16",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-14",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 144
+  },
+  {
+    "sap_id": "500121501",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-11",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 75
+  },
+  {
+    "sap_id": "500121561",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-01",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121485",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 43
+  },
+  {
+    "sap_id": "500121558",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-14",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 175
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-03",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 121
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 142
+  },
+  {
+    "sap_id": "500121487",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-10-06",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 127
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 56
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 116
+  },
+  {
+    "sap_id": "500121546",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-09",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 147
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 169
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-27",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 53
+  },
+  {
+    "sap_id": "500121512",
+    "task": "Complete lab work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121531",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-29",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 161
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Complete assignment",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 78
+  },
+  {
+    "sap_id": "500121554",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-12",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 77
+  },
+  {
+    "sap_id": "500121510",
+    "task": "Complete lab work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 126
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Revise previous topics",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-20",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121531",
+    "task": "Complete project work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 30
+  },
+  {
+    "sap_id": "500121561",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-28",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121483",
+    "task": "Complete assignment",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 173
+  },
+  {
+    "sap_id": "500121541",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-29",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121506",
+    "task": "Revise previous topics",
+    "subject": "NLP",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 97
+  },
+  {
+    "sap_id": "500121500",
+    "task": "Prepare for quiz",
+    "subject": "Data Structures",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 51
+  },
+  {
+    "sap_id": "500121510",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-26",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 120
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-17",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 85
+  },
+  {
+    "sap_id": "500121544",
+    "task": "Complete assignment",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-20",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 132
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-28",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121574",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 102
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 98
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 116
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 91
+  },
+  {
+    "sap_id": "500121522",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 171
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 174
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 106
+  },
+  {
+    "sap_id": "500121494",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 175
+  },
+  {
+    "sap_id": "500121524",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 138
+  },
+  {
+    "sap_id": "500121548",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 92
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-31",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 35
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-05",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 95
+  },
+  {
+    "sap_id": "500121502",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-11-01",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 120
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-31",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 157
+  },
+  {
+    "sap_id": "500121496",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-16",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 53
+  },
+  {
+    "sap_id": "500121491",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-29",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 111
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Solve practice questions",
+    "subject": "Database Management",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 109
+  },
+  {
+    "sap_id": "500121495",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-13",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 61
+  },
+  {
+    "sap_id": "500121541",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 133
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 102
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 84
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 173
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 94
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 121
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 171
+  },
+  {
+    "sap_id": "500121529",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-11-02",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 70
+  },
+  {
+    "sap_id": "500121526",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121570",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 141
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-14",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 150
+  },
+  {
+    "sap_id": "500121556",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-31",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 78
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 115
+  },
+  {
+    "sap_id": "500121520",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-13",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 138
+  },
+  {
+    "sap_id": "500121557",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-24",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 74
+  },
+  {
+    "sap_id": "500121560",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-09",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 125
+  },
+  {
+    "sap_id": "500121524",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121480",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-20",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 174
+  },
+  {
+    "sap_id": "500121490",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-19",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 52
+  },
+  {
+    "sap_id": "500121485",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 159
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-27",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 35
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Revise previous topics",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-13",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121482",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-11-01",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 166
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Complete assignment",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-21",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 67
+  },
+  {
+    "sap_id": "500121517",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-25",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 31
+  },
+  {
+    "sap_id": "500121515",
+    "task": "Prepare lecture notes",
+    "subject": "Database Management",
+    "deadline": "2026-10-17",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 37
+  },
+  {
+    "sap_id": "500121522",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-18",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-01",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 43
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-09",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 108
+  },
+  {
+    "sap_id": "500121571",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 34
+  },
+  {
+    "sap_id": "500121534",
+    "task": "Complete project work",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121502",
+    "task": "Solve practice questions",
+    "subject": "NLP",
+    "deadline": "2026-10-16",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Prepare for quiz",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-27",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 162
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Complete assignment",
+    "subject": "Data Structures",
+    "deadline": "2026-10-31",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 177
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-25",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 112
+  },
+  {
+    "sap_id": "500121556",
+    "task": "Complete project work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 161
+  },
+  {
+    "sap_id": "500121542",
+    "task": "Prepare lecture notes",
+    "subject": "Computer Networks",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 123
+  },
+  {
+    "sap_id": "500121554",
+    "task": "Complete project work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 95
+  },
+  {
+    "sap_id": "500121543",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 114
+  },
+  {
+    "sap_id": "500121488",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-12",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 51
+  },
+  {
+    "sap_id": "500121559",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-10-31",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 171
+  },
+  {
+    "sap_id": "500121505",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-06",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 124
+  },
+  {
+    "sap_id": "500121507",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 89
+  },
+  {
+    "sap_id": "500121550",
+    "task": "Prepare lecture notes",
+    "subject": "Operating Systems",
+    "deadline": "2026-11-01",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 170
+  },
+  {
+    "sap_id": "500121562",
+    "task": "Prepare for quiz",
+    "subject": "Database Management",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 101
+  },
+  {
+    "sap_id": "500121492",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 102
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-30",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 32
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Solve practice questions",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-24",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121555",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-11",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 177
+  },
+  {
+    "sap_id": "500121564",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-29",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 119
+  },
+  {
+    "sap_id": "500121551",
+    "task": "Complete project work",
+    "subject": "Database Management",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 31
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-11-03",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 162
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Revise previous topics",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 101
+  },
+  {
+    "sap_id": "500121539",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 164
+  },
+  {
+    "sap_id": "500121568",
+    "task": "Complete lab work",
+    "subject": "NLP",
+    "deadline": "2026-10-26",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 168
+  },
+  {
+    "sap_id": "500121576",
+    "task": "Complete lab work",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-24",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 68
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Solve practice questions",
+    "subject": "Database Management",
+    "deadline": "2026-10-09",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 69
+  },
+  {
+    "sap_id": "500121517",
+    "task": "Prepare presentation",
+    "subject": "Database Management",
+    "deadline": "2026-10-11",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 44
+  },
+  {
+    "sap_id": "500121503",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-20",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 166
+  },
+  {
+    "sap_id": "500121572",
+    "task": "Revise previous topics",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-11",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 32
+  },
+  {
+    "sap_id": "500121486",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-24",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 179
+  },
+  {
+    "sap_id": "500121490",
+    "task": "Prepare presentation",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-14",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 86
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Prepare for quiz",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 81
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare lecture notes",
+    "subject": "NLP",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 137
+  },
+  {
+    "sap_id": "500121563",
+    "task": "Complete assignment",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-03",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 40
+  },
+  {
+    "sap_id": "500121517",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 160
+  },
+  {
+    "sap_id": "500121524",
+    "task": "Solve practice questions",
+    "subject": "Data Structures",
+    "deadline": "2026-10-23",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 164
+  },
+  {
+    "sap_id": "500121566",
+    "task": "Prepare presentation",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-06",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 40
+  },
+  {
+    "sap_id": "500121493",
+    "task": "Revise previous topics",
+    "subject": "Database Management",
+    "deadline": "2026-10-31",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 109
+  },
+  {
+    "sap_id": "500121564",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 60
+  },
+  {
+    "sap_id": "500121535",
+    "task": "Solve practice questions",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-18",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 82
+  },
+  {
+    "sap_id": "500121527",
+    "task": "Complete lab work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-21",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 78
+  },
+  {
+    "sap_id": "500121568",
+    "task": "Prepare for quiz",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-12",
+    "priority": "high",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 166
+  },
+  {
+    "sap_id": "500121540",
+    "task": "Prepare lecture notes",
+    "subject": "Database Management",
+    "deadline": "2026-10-20",
+    "priority": "medium",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 47
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 95
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Complete project work",
+    "subject": "Data Structures",
+    "deadline": "2026-11-03",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 38
+  },
+  {
+    "sap_id": "500121481",
+    "task": "Prepare presentation",
+    "subject": "Data Structures",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 135
+  },
+  {
+    "sap_id": "500121479",
+    "task": "Solve practice questions",
+    "subject": "Deep Learning",
+    "deadline": "2026-11-02",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 87
+  },
+  {
+    "sap_id": "500121561",
+    "task": "Prepare presentation",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-18",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 118
+  },
+  {
+    "sap_id": "500121511",
+    "task": "Prepare lecture notes",
+    "subject": "Data Structures",
+    "deadline": "2026-10-29",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 121
+  },
+  {
+    "sap_id": "500121569",
+    "task": "Revise previous topics",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-07",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 70
+  },
+  {
+    "sap_id": "500121530",
+    "task": "Prepare for quiz",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-21",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 65
+  },
+  {
+    "sap_id": "500121565",
+    "task": "Prepare for quiz",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-23",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 146
+  },
+  {
+    "sap_id": "500121549",
+    "task": "Prepare presentation",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 122
+  },
+  {
+    "sap_id": "500121485",
+    "task": "Complete lab work",
+    "subject": "Machine Learning",
+    "deadline": "2026-10-08",
+    "priority": "medium",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 44
+  },
+  {
+    "sap_id": "500121478",
+    "task": "Solve practice questions",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 48
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Complete project work",
+    "subject": "NLP",
+    "deadline": "2026-10-19",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 132
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-11-02",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 106
+  },
+  {
+    "sap_id": "500121558",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 122
+  },
+  {
+    "sap_id": "500121489",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-17",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 169
+  },
+  {
+    "sap_id": "500121521",
+    "task": "Complete assignment",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-19",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "pending",
+    "estimated_time": 59
+  },
+  {
+    "sap_id": "500121484",
+    "task": "Prepare lecture notes",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-21",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 36
+  },
+  {
+    "sap_id": "500121544",
+    "task": "Prepare presentation",
+    "subject": "NLP",
+    "deadline": "2026-11-03",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 66
+  },
+  {
+    "sap_id": "500121547",
+    "task": "Complete assignment",
+    "subject": "Database Management",
+    "deadline": "2026-10-22",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "in_progress",
+    "estimated_time": 59
+  },
+  {
+    "sap_id": "500121519",
+    "task": "Prepare lecture notes",
+    "subject": "Deep Learning",
+    "deadline": "2026-10-25",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 180
+  },
+  {
+    "sap_id": "500121498",
+    "task": "Complete project work",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-10",
+    "priority": "high",
+    "difficulty": "medium",
+    "status": "completed",
+    "estimated_time": 128
+  },
+  {
+    "sap_id": "500121558",
+    "task": "Complete project work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-08",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "in_progress",
+    "estimated_time": 54
+  },
+  {
+    "sap_id": "500121513",
+    "task": "Prepare presentation",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-17",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 54
+  },
+  {
+    "sap_id": "500121504",
+    "task": "Complete lab work",
+    "subject": "Database Management",
+    "deadline": "2026-10-31",
+    "priority": "low",
+    "difficulty": "medium",
+    "status": "pending",
+    "estimated_time": 51
+  },
+  {
+    "sap_id": "500121541",
+    "task": "Prepare for quiz",
+    "subject": "NLP",
+    "deadline": "2026-10-23",
+    "priority": "medium",
+    "difficulty": "easy",
+    "status": "in_progress",
+    "estimated_time": 164
+  },
+  {
+    "sap_id": "500121577",
+    "task": "Solve practice questions",
+    "subject": "Computer Networks",
+    "deadline": "2026-10-17",
+    "priority": "low",
+    "difficulty": "easy",
+    "status": "completed",
+    "estimated_time": 162
+  },
+  {
+    "sap_id": "500121576",
+    "task": "Prepare for quiz",
+    "subject": "Operating Systems",
+    "deadline": "2026-10-14",
+    "priority": "low",
+    "difficulty": "hard",
+    "status": "completed",
+    "estimated_time": 58
+  },
+  {
+    "sap_id": "500121533",
+    "task": "Complete lab work",
+    "subject": "Compiler Design",
+    "deadline": "2026-10-27",
+    "priority": "high",
+    "difficulty": "easy",
+    "status": "pending",
+    "estimated_time": 44
+  }
+]
