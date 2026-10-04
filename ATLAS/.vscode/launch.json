@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ATLAS backend (uvicorn)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["app.main:app", "--reload", "--app-dir", "backend"],
+      "cwd": "${workspaceFolder}",
+      "jinja": true
+    }
+  ]
+}
